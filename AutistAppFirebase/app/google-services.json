@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "951291088529",
+    "firebase_url": "https://chatbotfirebase-2f08c.firebaseio.com",
+    "project_id": "chatbotfirebase-2f08c",
+    "storage_bucket": "chatbotfirebase-2f08c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951291088529:android:55b1b6f2c6cba2a52b7930",
+        "android_client_info": {
+          "package_name": "com.example.autistappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951291088529-7va5cfhsih8e59giduj2elsl9d2qo99d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autistappfirebase",
+            "certificate_hash": "f8c555e4314bbb2b75fea5f37f11a4613043aa3b"
+          }
+        },
+        {
+          "client_id": "951291088529-34pjad3v7s3qphphn1jtoua9lm1el44b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtZoCIYbkEK_ZXo-ofZ05XgNKXe6f9-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951291088529-34pjad3v7s3qphphn1jtoua9lm1el44b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

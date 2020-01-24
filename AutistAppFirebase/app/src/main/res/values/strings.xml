@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AutistAppFirebase</string>
+    <string name="manifest_title">Chat Bot</string>
+    <string name="app_title">AUTIST BOT</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repeat">Repeat Password</string>
+    <string name="login">Login</string>
+    <string name="register">Sign In</string>
+    <string name="failregister">Complete the form to register</string>
+    <string name="faillogin">Fill the form to login</string>
+    <string name="user_actions">Select</string>
+    <string name="cerrarsesion">Logout</string>
+    <string name="chat">CHAT</string>
+    <string name="records">RECORDS</string>
+    <string name="title_activity_chat_bot">ChatBot</string>
+    <string name="title_activity_records">Records</string>
+    <string name="mic">Click the microphone to talk</string>
+    <string name="failFirebase">A problem with Firebase has occurred</string>
+    <string name="noLogin">User or password incorrect</string>
+    <string name="chattitle">Talk</string>
+    <string name="recordstitle">Records</string>
+    <string name="recordtitle">Record</string>
+    <string name="recordButton">See</string>
+</resources>
